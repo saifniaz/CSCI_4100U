@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="about_message">Welcome About Activity</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="login_message">Welcome Login Activity</string>
+    <string name="toast">Login Successful</string>
+</resources>

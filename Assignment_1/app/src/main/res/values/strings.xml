@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="main_button">Ask</string>
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="blank">Blank</string>
+    <string-array name="question">
+        <item>Is Mobile Device the best course ever?</item>
+        <item>Is Computer Science the best program of UOIT?</item>
+        <item>Are you going to ace this course?</item>
+        <item>Do you like studying at UOIT?</item>
+        <item>Do you live near the campus?</item>
+    </string-array>
+</resources>
