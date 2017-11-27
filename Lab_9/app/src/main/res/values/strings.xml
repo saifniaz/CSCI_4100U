@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_9</string>
+    <string name="title_activity_show_location">Map</string>
+    <string name="title_activity_search">Search</string>
+    <string name="locate">Locate</string>
+    <string name="address1">Address line 1</string>
+    <string name="address2">Address line 2</string>
+    <string name="city">Locality(city)</string>
+    <string name="province">Admin area(province)</string>
+    <string name="country">Country name</string>
+    <string name="postal">Postal Code</string>
+    <string name="number">Phone Number</string>
+    <string name="url">URL</string>
+</resources>

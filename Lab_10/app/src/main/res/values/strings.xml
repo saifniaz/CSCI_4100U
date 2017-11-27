@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_10</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string-array name="video_list">
+        <item>hero.mp3</item>
+        <item>summer.mp3</item>
+    </string-array>
+</resources>
